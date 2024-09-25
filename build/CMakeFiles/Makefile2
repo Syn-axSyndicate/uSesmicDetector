@@ -63,7 +63,7 @@ CMAKE_BINARY_DIR = "/home/omen/Projects/seismic data/build"
 # Directory level rules for the build root directory
 
 # The main recursive "all" target.
-all: CMakeFiles/uSesmicDetector.dir/all
+all: CMakeFiles/uSeismicDetector.dir/all
 .PHONY : all
 
 # The main recursive "preinstall" target.
@@ -71,34 +71,34 @@ preinstall:
 .PHONY : preinstall
 
 # The main recursive "clean" target.
-clean: CMakeFiles/uSesmicDetector.dir/clean
+clean: CMakeFiles/uSeismicDetector.dir/clean
 .PHONY : clean
 
 #=============================================================================
-# Target rules for target CMakeFiles/uSesmicDetector.dir
+# Target rules for target CMakeFiles/uSeismicDetector.dir
 
 # All Build rule for target.
-CMakeFiles/uSesmicDetector.dir/all:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/uSesmicDetector.dir/build.make CMakeFiles/uSesmicDetector.dir/depend
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/uSesmicDetector.dir/build.make CMakeFiles/uSesmicDetector.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir="/home/omen/Projects/seismic data/build/CMakeFiles" --progress-num=1,2 "Built target uSesmicDetector"
-.PHONY : CMakeFiles/uSesmicDetector.dir/all
+CMakeFiles/uSeismicDetector.dir/all:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/uSeismicDetector.dir/build.make CMakeFiles/uSeismicDetector.dir/depend
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/uSeismicDetector.dir/build.make CMakeFiles/uSeismicDetector.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir="/home/omen/Projects/seismic data/build/CMakeFiles" --progress-num=1,2 "Built target uSeismicDetector"
+.PHONY : CMakeFiles/uSeismicDetector.dir/all
 
 # Build rule for subdir invocation for target.
-CMakeFiles/uSesmicDetector.dir/rule: cmake_check_build_system
+CMakeFiles/uSeismicDetector.dir/rule: cmake_check_build_system
 	$(CMAKE_COMMAND) -E cmake_progress_start "/home/omen/Projects/seismic data/build/CMakeFiles" 2
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/uSesmicDetector.dir/all
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/uSeismicDetector.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start "/home/omen/Projects/seismic data/build/CMakeFiles" 0
-.PHONY : CMakeFiles/uSesmicDetector.dir/rule
+.PHONY : CMakeFiles/uSeismicDetector.dir/rule
 
 # Convenience name for target.
-uSesmicDetector: CMakeFiles/uSesmicDetector.dir/rule
-.PHONY : uSesmicDetector
+uSeismicDetector: CMakeFiles/uSeismicDetector.dir/rule
+.PHONY : uSeismicDetector
 
 # clean rule for target.
-CMakeFiles/uSesmicDetector.dir/clean:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/uSesmicDetector.dir/build.make CMakeFiles/uSesmicDetector.dir/clean
-.PHONY : CMakeFiles/uSesmicDetector.dir/clean
+CMakeFiles/uSeismicDetector.dir/clean:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/uSeismicDetector.dir/build.make CMakeFiles/uSeismicDetector.dir/clean
+.PHONY : CMakeFiles/uSeismicDetector.dir/clean
 
 #=============================================================================
 # Special targets to cleanup operation of make.

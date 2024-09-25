@@ -731,7 +731,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "uSesmicDetector"
+			"value" : "uSeismicDetector"
 		},
 		{
 			"name" : "CMAKE_PROJECT_VERSION",
@@ -1102,7 +1102,7 @@
 			"value" : "TRUE"
 		},
 		{
-			"name" : "uSesmicDetector_BINARY_DIR",
+			"name" : "uSeismicDetector_BINARY_DIR",
 			"properties" : 
 			[
 				{
@@ -1114,7 +1114,7 @@
 			"value" : "/home/omen/Projects/seismic data/build"
 		},
 		{
-			"name" : "uSesmicDetector_IS_TOP_LEVEL",
+			"name" : "uSeismicDetector_IS_TOP_LEVEL",
 			"properties" : 
 			[
 				{
@@ -1126,7 +1126,7 @@
 			"value" : "ON"
 		},
 		{
-			"name" : "uSesmicDetector_SOURCE_DIR",
+			"name" : "uSeismicDetector_SOURCE_DIR",
 			"properties" : 
 			[
 				{

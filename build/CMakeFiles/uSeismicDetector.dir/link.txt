@@ -1,0 +1,1 @@
+/usr/bin/c++  -g -g CMakeFiles/uSeismicDetector.dir/src/main.cpp.o -o bin/uSeismicDetector

@@ -8,7 +8,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "/home/omen/Projects/seismic data/src/main.cpp" "CMakeFiles/uSesmicDetector.dir/src/main.cpp.o" "gcc" "CMakeFiles/uSesmicDetector.dir/src/main.cpp.o.d"
+  "/home/omen/Projects/seismic data/src/main.cpp" "CMakeFiles/uSeismicDetector.dir/src/main.cpp.o" "gcc" "CMakeFiles/uSeismicDetector.dir/src/main.cpp.o.d"
   )
 
 # Targets to which this target links which contain Fortran sources.
