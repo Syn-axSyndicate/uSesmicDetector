@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/home/omen/Projects/seismic data/build",
+  "command": "/usr/bin/c++    -g -g -std=c++11 -o CMakeFiles/uSesmicDetector.dir/src/main.cpp.o -c \"/home/omen/Projects/seismic data/src/main.cpp\"",
+  "file": "/home/omen/Projects/seismic data/src/main.cpp",
+  "output": "CMakeFiles/uSesmicDetector.dir/src/main.cpp.o"
+}
+]
